@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="Label_Helper.View.Settings"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:vm="clr-namespace:Label_Helper.ViewModel"
+             mc:Ignorable="d"
+             d:DesignHeight="600"
+             d:DesignWidth="622"
+             Style="{StaticResource Page_Style}">
+
+    <UserControl.DataContext>
+        <vm:SettingVM />
+    </UserControl.DataContext>
+    
+    <Grid Margin="15">
+
+        <Border CornerRadius="0,20,20,0">
+            <Border CornerRadius="0,20,20,0">
+                <Border Background="#66008E"
+                CornerRadius="20" Margin="10,-62,-10,62" />
+            </Border>
+        </Border>
+        <TextBlock HorizontalAlignment="Left" FontSize="36" Margin="52,44,0,482" FontWeight="Normal" TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Text="Настройки"/>
+        <TextBlock HorizontalAlignment="Left" FontSize="24" Margin="52,88,0,438" FontWeight="Normal" TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Text="Учетная запись"/>
+        <TextBlock FontSize="20" Margin="52,132,122,152" FontWeight="Normal" TextAlignment="Left" Foreground="White" FontFamily="Inter" LineHeight="Auto" TextWrapping="Wrap" ><Run Text="Имя пользователя: [ИванПетров] 
+                                                                                                                                                                  Эл. почта: [ivan.petrov@example.com]
+                                                                                                                                                                  Пароль: [**********]
+"/></TextBlock>
+
+    </Grid>
+</UserControl>

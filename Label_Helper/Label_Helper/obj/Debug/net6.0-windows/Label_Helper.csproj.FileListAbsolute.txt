@@ -1,0 +1,137 @@
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Button.baml
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Image.baml
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Page.baml
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Text.baml
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\AboutLabels.g.cs
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\AddArtist.g.cs
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Albums.g.cs
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Artists.g.cs
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Home.g.cs
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Ratings.g.cs
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Settings.g.cs
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper_Content.g.cs
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.cache
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.lref
+C:\Users\User\OneDrive\ООП\hi\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Helps.g.cs
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Button.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Image.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Page.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Text.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\AboutLabels.g.cs
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\AddArtist.g.cs
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Albums.g.cs
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Artists.g.cs
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Helps.g.cs
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Home.g.cs
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Ratings.g.cs
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Settings.g.cs
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_Content.g.cs
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.cache
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.lref
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.exe
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Fonts\RubikBubbles-Regular.ttf
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\albums.png
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\artists.png
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\back.png
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\aboutLabel.png
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\back1.png
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\backboll.jpg
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\backboll.svg
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\backk.jpg
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\back_main.svg
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\boll.png
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\boll.svg
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\bolldown.png
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\bollup.png
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\help.png
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\home.png
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\left.svg
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\left_main.svg
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\rating.png
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\settings.png
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\shutdown_def.png
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\shutdown_mo.png
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.deps.json
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.runtimeconfig.json
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.pdb
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Utilities\DataTemplate.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\AboutLabels.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\AddArtist.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Albums.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Artists.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Helps.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Home.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Ratings.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Settings.baml
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.g.resources
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.AssemblyInfo.cs
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.csproj.CopyComplete
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\refint\Label_Helper.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.pdb
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.genruntimeconfig.cache
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\ref\Label_Helper.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\ООП\hi\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.csproj.AssemblyReference.cache
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Button.baml
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Image.baml
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Page.baml
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Text.baml
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\AboutLabels.g.cs
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\AddArtist.g.cs
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Albums.g.cs
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Artists.g.cs
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Helps.g.cs
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Home.g.cs
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Ratings.g.cs
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Settings.g.cs
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\App.g.cs
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_Content.g.cs
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.cache
+C:\hi\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.lref
